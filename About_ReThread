@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>About Us | ReThread</title>
+
+    <meta name="description" content="Learn about ReThread, our purpose, vision and commitment to reducing textile waste.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION BAR -->
+
+    <header>
+        <nav class="navbar">
+
+            <a href="index.html" class="logo">ReThread<span>.</span></a>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="process.html">Our Process</a></li>
+                <li><a href="impact.html">Our Impact</a></li>
+            </ul>
+
+            <a href="donate.html" class="nav-button">Donate Clothes</a>
+
+        </nav>
+    </header>
+
+
+    <!-- ABOUT HERO -->
+
+    <section class="about-hero section">
+
+        <p class="eyebrow">GET TO KNOW RETHREAD</p>
+
+        <h1>Every thread has a story.
+            <br>
+            <span>We give it another.</span>
+        </h1>
+
+        <p>
+            ReThread is about seeing potential where others
+            see unwanted clothing. We believe that clothes
+            can have more than one purpose and that even
+            small actions can create meaningful change.
+        </p>
+
+    </section>
+
+
+    <!-- OUR STORY -->
+
+    <section class="story section">
+
+        <p class="eyebrow">OUR STORY</p>
+
+        <h2>Where it all begins.</h2>
+
+        <p>
+            ReThread began with a simple thought:
+            what if clothes that people no longer needed
+            could be transformed into something useful
+            for someone else?
+        </p>
+
+        <p>
+            Instead of allowing unwanted textiles to become
+            waste, we wanted to find a way to give them
+            another purpose. This idea led to the creation
+            of ReThread, an initiative that brings together
+            clothing donations, creativity and community
+            participation.
+        </p>
+
+        <p>
+            By gathering donated clothes and working
+            together to repurpose their fabrics, we hope
+            to create useful household essentials for
+            people who need them.
+        </p>
+
+    </section>
+
+
+    <!-- THE PROBLEM -->
+
+    <section class="problem section">
+
+        <p class="eyebrow">THE PROBLEM WE ADDRESS</p>
+
+        <h2>Two issues. One opportunity.</h2>
+
+        <div class="problem-content">
+
+            <div class="problem-card">
+
+                <h3>Textile Waste</h3>
+
+                <p>
+                    Clothes are often discarded when people
+                    no longer want or need them. Many of these
+                    textiles still have the potential to be
+                    reused, repurposed or transformed into
+                    something useful.
+                </p>
+
+            </div>
+
+
+            <div class="problem-card">
+
+                <h3>Everyday Essentials</h3>
+
+                <p>
+                    Many underprivileged individuals and
+                    families face difficulties accessing
+                    basic household items. Useful products
+                    such as blankets and pillow covers can
+                    make a difference in everyday life.
+                </p>
+
+            </div>
+
+        </div>
+
+        <p class="problem-ending">
+            ReThread aims to connect these two issues
+            through the power of reuse and community.
+        </p>
+
+    </section>
+
+
+    <!-- OUR VISION -->
+
+    <section class="vision section">
+
+        <p class="eyebrow">LOOKING AHEAD</p>
+
+        <h2>Our Vision</h2>
+
+        <p>
+            We envision a community where clothing is
+            valued beyond its original purpose, where
+            reusable textiles are given new life rather
+            than discarded, and where people come together
+            to support those in need.
+        </p>
+
+        <p>
+            Through ReThread, we hope to encourage more
+            responsible habits, inspire creativity and
+            demonstrate how collective efforts can
+            create a positive difference.
+        </p>
+
+    </section>
+
+
+    <!-- OUR VALUES -->
+
+    <section class="values section">
+
+        <p class="eyebrow">WHAT GUIDES US</p>
+
+        <h2>What We Stand For</h2>
+
+        <div class="values-list">
+
+            <div class="value-item">
+
+                <h3>01. Sustainability</h3>
+
+                <p>
+                    Making better use of existing materials
+                    and reducing unnecessary textile waste.
+                </p>
+
+            </div>
+
+
+            <div class="value-item">
+
+                <h3>02. Creativity</h3>
+
+                <p>
+                    Finding new possibilities in old fabrics
+                    and transforming them into useful products.
+                </p>
+
+            </div>
+
+
+            <div class="value-item">
+
+                <h3>03. Community</h3>
+
+                <p>
+                    Bringing people together through
+                    volunteering, collaboration and giving.
+                </p>
+
+            </div>
+
+
+            <div class="value-item">
+
+                <h3>04. Compassion</h3>
+
+                <p>
+                    Creating something meaningful for
+                    individuals and families who need support.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <a href="index.html" class="logo">ReThread<span>.</span></a>
+
+        <p>Give clothes a second life.</p>
+
+        <div class="footer-links">
+
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="process.html">Our Process</a>
+            <a href="donate.html">Donate</a>
+
+        </div>
+
+        <p class="copyright">
+            © 2026 ReThread. All rights reserved.
+        </p>
+
+    </footer>
+
+</body>
+</html>
