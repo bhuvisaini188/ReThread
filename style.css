@@ -1097,3 +1097,21 @@ button:focus-visible {
         font-size: 2rem;
     }
 }
+.navbar {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100%;
+}
+
+.logo {
+    margin-right: auto !important;
+}
+
+.nav-links {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    gap: 32px;
+    margin-left: auto !important;
+}
