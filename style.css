@@ -1073,6 +1073,25 @@ button:focus-visible {
     h1 {
         font-size: 2.6rem;
     }
+   .nav-links a.nav-button,
+.nav-links a.nav-button.active {
+    background: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    color: #b5bd91 !important;
+    text-decoration: none !important;
+}
+
+.nav-links a.nav-button:hover,
+.nav-links a.nav-button.active:hover {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: #f5f1e6 !important;
+}
 
     h2 {
         font-size: 2rem;
