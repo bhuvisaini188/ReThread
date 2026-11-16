@@ -1006,3 +1006,23 @@ a:focus-visible {
         gap: 12px 17px;
     }
 }
+
+
+/* Navigation link colours */
+.nav-links a {
+    color: #f5f1e6;
+    text-decoration: none;
+}
+
+/* Donate button */
+.nav-button {
+    background-color: #f5f1e6;
+    color: #243f32 !important;
+    border: 1px solid #f5f1e6;
+}
+
+/* Donate button hover */
+.nav-button:hover {
+    background-color: #b5bd91;
+    color: #243f32 !important;
+}
